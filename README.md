@@ -13,16 +13,11 @@ A simple, interactive command-line number guessing game built using C. The progr
 You need a C compiler installed on your system (like GCC).
 
 ### Compilation
-Open your terminal and run the following command:
-```bash
-gcc main.c -o guessing_game
-```
+download the code of game.c from the repository and open it in your code editor
 
 ### Execution
-Run the compiled game:
-```bash
-./guessing_game
-```
+Run the code in your computer and play in output terminal
+
 
 ## How to Play
 1. The computer will randomly pick a number between 1 and 100.
